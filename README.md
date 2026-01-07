@@ -1,8 +1,14 @@
+# O mě / About me
+
 ## Ahoj 👋
+
 ## Jen ti chci dát vědět, že tady tohle přidám později... někdy později... možná...
 
+---
+
 ## Hi there 👋
-## I just want to let you know, that I will add later.... sometime late.... maybe...
+
+## I just want to let you know, that I will add later... sometime late... maybe...
 
 <!--
 **matejhendrych/matejhendrych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
